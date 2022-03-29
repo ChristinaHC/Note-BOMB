@@ -18,7 +18,7 @@
   ![enter image description here](https://photos.app.goo.gl/XsaFe1YGRRke29to8)
 
   ## Link to Deployed Application
-  * https:// 
+  * https://notebomb-app.herokuapp.com/
 
   ### Installation
   

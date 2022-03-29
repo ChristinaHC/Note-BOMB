@@ -15,7 +15,7 @@
 
   ## Screenshot of Application
   
-  ![enter image description here](https://photos.app.goo.gl/XsaFe1YGRRke29to8)
+  ![NoteBomb](https://user-images.githubusercontent.com/92480050/160701782-014d2443-e6a1-460a-8941-28496839a5e6.jpg)
 
   ## Link to Deployed Application
   * https://notebomb-app.herokuapp.com/
